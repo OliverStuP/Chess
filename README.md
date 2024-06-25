@@ -11,7 +11,7 @@ A chess simulator used to test my capabilities with Java and JFrame tools.
 
 ### How to play
 
-The rules used here match what is used in the actual game. Details can be found here for those who are unfamiliar with the game [here] (https://en.wikipedia.org/wiki/Rules_of_chess).
+The rules used here match what is used in the actual game. Details can be found here for those who are unfamiliar with the game [here](https://en.wikipedia.org/wiki/Rules_of_chess).
 
 As this is build is primarily a simulation, A.I has yet to be designed for the opponent. The user must control both the white and black sides. As is the case with chess, the white side goes first. 
 
@@ -47,4 +47,4 @@ Follow me on LinkedIn: https://www.linkedin.com/in/oliver-page-6ba9a9216/
 - Oliver Page
 
 ### Original source code
-- [Robert Johns] (https://hackr.io/blog/how-to-build-a-java-chess-game-app)
+- [Robert Johns](https://hackr.io/blog/how-to-build-a-java-chess-game-app)
